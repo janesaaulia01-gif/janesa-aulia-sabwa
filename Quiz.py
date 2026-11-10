@@ -7,9 +7,9 @@ nama = input("Masukkan Nama Mahasiswa: ")
 if nama == "Andi":
     target = 70
 elif nama == "Budi":
-    Target = 75
-elif nama == "citra":
-    Target = 80
+    target = 75
+elif nama == "Citra":
+    target = 80
 else:
     target = 0
 
